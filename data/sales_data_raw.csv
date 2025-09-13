@@ -1,0 +1,316 @@
+Order_ID,Order_Date,Customer_Name,Product_Category,Merk,Product_Name,Quantity,Unit_Price,City,Payment_Method
+ORD-001,20/08/2023,lina kartika,Fashion, Nike ,sepatu pria,2,412000,Samarinda,Bank Transfer
+ORD-002,2023-12-30,fitri anggraini,Fashion,zara,Tas Pria,8,2996000,Bandung,PayLater
+ORD-003,02/12/2023,Dian Lestari,Elektronik,asus, monitor  4k ,4,213000,Batam,Credit Card
+ORD-004,2023-10-25,RIKO PRATAMA,Fashion,Zara,Baju Wanita,4,0,Bali,PayLater
+ORD-005,22/12/2023,SARİ DEWİ,Elektronik, LG ,Tv Led,3,3209000,Makassar,PayLater
+ORD-006,26/02/2023,"Budi, Santoso",Elektronik,XIAOMI,SMARTPHONE,3,423000,Jakarta,Cash On Delivery
+ORD-007,22/10/2023,SINTA NURMALA,Fashion, Nike , tas  pria ,4,177000,Jakarta,Credit Card
+ORD-008,30/08/2023,FITRI ANGGRAINI,Elektronik,LG,HEADPHONE BLUETOOTH,2,18511000,Palembang,E-Wallet
+ORD-009,18/11/2023,sinta nurmala,Fashion,NIKE,CELANA JEANS,5,747000,Bali,QRIS
+ORD-010,01/08/2023,DIAN LESTARI,Fashion, adidas ,baju pria,4,149000,Bali,PayLater
+ORD-011,16/03/2023,rudi  hermawan,Fashion, Nike ,Sepatu Wanita,5,697000,Bali,PayLater
+ORD-012,29/01/2023,lina kartika,Fashion, gucci ,Dress,4,754000,Makassar,Cash On Delivery
+ORD-013,10/09/2023,budi santoso,Elektronik,Sony,HEADPHONE BLUETOOTH,2,132000,Makassar,PayLater
+ORD-014,2023-08-08,dian lestari,Fashion,Adidas, baju  wanita ,2,190000,Bandung,Cash On Delivery
+ORD-015,26/06/2023,Anton Susanto,Fashion, H&M , tas  wanita ,3,2896000,Jakarta,Credit Card
+ORD-016,10/01/2023,Sinta Nurmala,Elektronik,Xiaomi,tablet,2,3685000,Palembang,Cash On Delivery
+ORD-017,24/12/2023,RUDI HERMAWAN,Elektronik,Xiaomi,KAMERA DIGITAL,10,2043000,Medan,QRIS
+ORD-018,15/01/2023, maya sari ,Elektronik, LG ,Smartphone,2,14035000,Medan,Credit Card
+ORD-019,05/05/2023,ANTON SUSANTO,Fashion,H&M,SEPATU PRIA,2,2213000,Medan,PayLater
+ORD-020,12/05/2023,rudi  hermawan,Fashion,Zara, tas  wanita ,6,3732000,Palembang,QRIS
+ORD-021,2023-10-03, maya sari ,Fashion, adidas ,Kemeja,5,704000,Surabaya,Credit Card
+ORD-022,2023-10-31,FITRI ANGGRAINI,Fashion,h&m,sepatu pria,4,102000,Samarinda,Credit Card
+ORD-023,13/12/2023,agus  wijaya,Elektronik,ASUS,Mouse Wireless,1,3461000,Medan,E-Wallet
+ORD-024,2023-12-02, budi santoso  ,Fashion,UNIQLO,baju wanita,-2,1727000,Samarinda,Credit Card
+ORD-025,04/11/2023,SINTA NURMALA,Fashion,adidas, jaket ,4,268000,Surabaya,QRIS
+ORD-026,2023-08-22,lina kartika,Elektronik,Asus,tablet,4,11698000,Medan,Cash On Delivery
+ORD-027,2023-03-02,rudi  hermawan,Fashion,Zara, tas  pria ,7,2409000,Makassar,QRIS
+ORD-028,03/05/2023,ANTON SUSANTO,Elektronik,xiaomi,Smartwatch,2,4131000,,
+ORD-029,2023-08-01,MAYA SARI,Fashion,GUCCI,tas wanita,4,142000,Palembang,QRIS
+ORD-030,2023-11-29,Fitri Anggraini,Elektronik,XIAOMI,kamera digital,4,12504000,Semarang,E-Wallet
+ORD-031,05/07/2023,Riko Pratama,Elektronik,Asus,tablet,3,428000,,QRIS
+ORD-032,2023-02-19,maya sari,Elektronik,sony,SMARTPHONE,1,280000,Jakarta,QRIS
+ORD-033,2023-06-04,Maya Sari,Fashion,NIKE, baju  pria ,4,1762000,Surabaya,Bank Transfer
+ORD-034,2023-09-01,Sinta Nurmala,Fashion, Zara , jaket ,5,433000,Makassar,E-Wallet
+ORD-035,2023-02-19,DIAN LESTARI,Elektronik,ASUS,POWER BANK,3,4378000,Palembang,Credit Card
+ORD-036,2023-11-01,Maya Sari,Elektronik,Lg,TV LED,5,244000,Samarinda,E-Wallet
+ORD-037,2023-10-05,riko pratama,Elektronik,ASUS,Laptop Gaming,1,277000,Medan,E-Wallet
+ORD-038,24/07/2023,AGUS WIJAYA,Fashion,H&M,Baju Pria,1,147000,Surabaya,PayLater
+ORD-039,2023-02-25,Agus Wijaya,Fashion,Zara, celana  jeans ,2,759000,Samarinda,Bank Transfer
+ORD-040,19/07/2023, maya sari ,Fashion,UNIQLO,BAJU PRIA,9,0,Bali,
+ORD-041,15/06/2023,Sinta Nurmala,Elektronik, xiaomi ,monitor 4k,3,17156000,Bali,Credit Card
+ORD-042,2023-03-13,anton susanto,Fashion, Nike ,Sepatu Pria,1,1867000,Medan,Credit Card
+ORD-043,06/02/2023,Anton Susanto,Fashion,nike, tas  pria ,1,153000,Palembang,QRIS
+ORD-044,2023-12-04,Sari Dewi,Fashion,Adidas,Tas Pria,2,880000,Palembang,E-Wallet
+ORD-045,2023-07-28,agus wijaya,Elektronik,Samsung,POWER BANK,2,1861000,Surabaya,E-Wallet
+ORD-046,2023-01-01,agus  wijaya,Fashion,uniqlo, kemeja ,2,79000,Jakarta,Cash On Delivery
+ORD-047,2023-03-19,Budi Santoso,Elektronik, asus ,TV LED,2,13704000,Samarinda,Cash On Delivery
+ORD-048,2023-01-11,fitri anggraini,Fashion,zara, kemeja ,5,3698000,Bali,
+ORD-049,07/08/2023,dian lestari,Fashion,H&M,SEPATU WANITA,4,2393000,,PayLater
+ORD-050,2023-11-21,riko pratama,Fashion, H&M ,CELANA JEANS,2,453000,Semarang,
+ORD-051,04/01/2023,SINTA NURMALA,Fashion,Nike,sepatu pria,10,-89000,Semarang,
+ORD-052,12/11/2023,lina kartika,Fashion, Nike , dress ,3,189000,Jakarta,PayLater
+ORD-053,2023-09-30,anton susanto,Elektronik,ASUS,monitor 4k,3,1657000,Batam,Cash On Delivery
+ORD-054,11/12/2023,DIAN LESTARI,Elektronik,XIAOMI,tablet,3,8455000,Bali,Cash On Delivery
+ORD-055,2023-06-20,Agus Wijaya,Fashion,Uniqlo,jaket,5,115000,Medan,
+ORD-056,06/08/2023,fitri anggraini,Elektronik,Sony,Laptop Gaming,3,331000,Bali,Bank Transfer
+ORD-057,15/09/2023,Sinta Nurmala,Elektronik,asus,SMARTPHONE,4,18336000,Bali,
+ORD-058,2023-07-29,riko pratama,Fashion, gucci ,Sepatu Wanita,1,2993000,Bandung,Bank Transfer
+ORD-059,2023-04-09,AGUS WIJAYA,Fashion,Uniqlo, tas  pria ,3,161000,Palembang,Bank Transfer
+ORD-060,23/11/2023,SINTA NURMALA,Elektronik,LG,MOUSE WIRELESS,1,3202000,Samarinda,Cash On Delivery
+ORD-061,12/05/2023,"Budi, Santoso",Fashion, H&M ,Dress,3,852000,Bandung,PayLater
+ORD-062,2023-05-16,LINA KARTIKA,Elektronik,Sony,TABLET,1,1895000,Semarang,
+ORD-063,13/01/2023,budi santoso,Elektronik,samsung,mouse wireless,3,11638000,Surabaya,
+ORD-064,27/09/2023,anton susanto,Fashion,GUCCI, sepatu  pria ,1,748000,Batam,Cash On Delivery
+ORD-065,02/08/2023,SARİ DEWİ,Fashion,Zara,KEMEJA,6,2789000,Jakarta,
+ORD-066,2023-08-27,"Budi, Santoso",Fashion, uniqlo ,CELANA JEANS,2,190000,Palembang,
+ORD-067,06/08/2023,sari dewi,Elektronik, asus ,Tv Led,-2,3679000,Jakarta,Bank Transfer
+ORD-068,2023-11-06, budi santoso  ,Elektronik,SONY,Mouse Wireless,10,11944000,Jakarta,QRIS
+ORD-069,2023-08-19,Riko Pratama,Elektronik,Lg,Laptop Gaming,4,21558000,Medan,PayLater
+ORD-070,2023-04-01,MAYA SARI,Elektronik,apple,smartphone,7,17072000,Samarinda,QRIS
+ORD-071,15/08/2023,"Sari, Dewi",Fashion,h&m,Sepatu Wanita,1,159000,Palembang,E-Wallet
+ORD-072,06/12/2023,"Sari, Dewi",Fashion,h&m,SEPATU WANITA,6,164000,Jakarta,Cash On Delivery
+ORD-073,2023-06-03,AGUS WIJAYA,Elektronik,samsung,Tv Led,8,159000,Semarang,PayLater
+ORD-074,17/04/2023,sari dewi,Fashion,H&M, tas  wanita ,-1,168000,Semarang,Cash On Delivery
+ORD-075,08/06/2023,Anton Susanto,Elektronik,ASUS,TABLET,2,3102000,,
+ORD-076,24/04/2023,sinta nurmala,Fashion,nike, dress ,5,883000,Medan,
+ORD-077,06/03/2023,riko pratama,Elektronik, asus ,KAMERA DIGITAL,1,22201000,Semarang,
+ORD-078,01/11/2023,FITRI ANGGRAINI,Fashion,H&M,sepatu pria,3,754000,Surabaya,E-Wallet
+ORD-079,2023-07-27,Maya Sari,Fashion,adidas, kemeja ,10,676000,,Bank Transfer
+ORD-080,19/07/2023,fitri anggraini,Fashion,NIKE,celana jeans,4,619000,Samarinda,PayLater
+ORD-081,12/01/2023,FITRI ANGGRAINI,Elektronik, Apple ,MOUSE WIRELESS,6,344000,Samarinda,Bank Transfer
+ORD-082,10/11/2023,Budi Santoso,Fashion, gucci ,Jaket,3,190000,Palembang,E-Wallet
+ORD-083,02/12/2023,FITRI ANGGRAINI,Fashion,ZARA, baju  pria ,3,441000,Semarang,Cash On Delivery
+ORD-084,2023-06-13,Anton Susanto,Elektronik,ASUS,mouse wireless,2,321000,Palembang,QRIS
+ORD-085,2023-08-27,"Sari, Dewi",Elektronik,xiaomi,keyboard mechanical,2,20535000,Jakarta,Bank Transfer
+ORD-086,30/01/2023, maya sari ,Fashion,ADIDAS,kemeja,7,1851000,Semarang,E-Wallet
+ORD-087,18/01/2023,Anton Susanto,Fashion,H&M,kemeja,5,2051000,Jakarta,Bank Transfer
+ORD-088,2023-05-25,"Sari, Dewi",Fashion,Zara,KEMEJA,2,2624000,Makassar,Credit Card
+ORD-089,12/12/2023,ANTON SUSANTO,Elektronik, LG ,tablet,4,215000,Bali,Credit Card
+ORD-090,2023-10-15,RIKO PRATAMA,Fashion,Nike,Baju Wanita,1,2175000,Surabaya,Credit Card
+ORD-091,2023-05-06,Fitri Anggraini,Elektronik,lg, smart watch ,-1,372000,Surabaya,
+ORD-092,18/10/2023,dian lestari,Elektronik,Apple,Power Bank,3,2085000,Medan,Credit Card
+ORD-093,17/11/2023,rudi  hermawan,Elektronik, Samsung ,Smartphone,-2,3822000,Palembang,Credit Card
+ORD-094,2023-07-29,agus wijaya,Fashion,ADIDAS,SEPATU WANITA,3,3052000,Bandung,E-Wallet
+ORD-095,30/04/2023,sari dewi,Fashion, gucci ,Celana Jeans,3,171000,Batam,Cash On Delivery
+ORD-096,27/03/2023,Rudi Hermawan,Elektronik,LG,mouse wireless,7,8624000,,
+ORD-097,2023-10-25,Fitri Anggraini,Elektronik, Samsung ,Tablet,4,429000,Surabaya,Credit Card
+ORD-098,01/06/2023,MAYA SARI,Elektronik,Apple,Mouse Wireless,1,15591000,Batam,QRIS
+ORD-099,2023-08-29,Sari Dewi,Elektronik,Samsung, monitor  4k ,9,363000,Surabaya,PayLater
+ORD-100,27/01/2023,SARİ DEWİ,Elektronik,Asus,mouse wireless,5,20086000,Bali,Bank Transfer
+ORD-101,2023-09-07,lina kartika,Elektronik, sony ,SMARTWATCH,4,204000,,E-Wallet
+ORD-102,2023-12-28, budi santoso  ,Fashion, Nike , kemeja ,5,2827000,Semarang,QRIS
+ORD-103,2023-02-03,Dian Lestari,Elektronik,apple,power bank,1,18937000,Surabaya,PayLater
+ORD-104,2023-06-29,rudi hermawan,Elektronik, xiaomi ,Monitor 4K,9,8851000,Bali,Cash On Delivery
+ORD-105,28/01/2023,Riko Pratama,Fashion,ZARA,BAJU WANITA,7,517000,,
+ORD-106,13/12/2023,Fitri Anggraini,Fashion, uniqlo ,baju pria,1,180000,Bandung,Credit Card
+ORD-107,2023-01-19, maya sari ,Fashion, Zara ,celana jeans,2,202000,Semarang,E-Wallet
+ORD-108,2023-09-26,agus  wijaya,Fashion, uniqlo ,jaket,7,683000,Samarinda,E-Wallet
+ORD-109,10/05/2023,dian lestari,Elektronik,apple,TV LED,2,395000,Batam,E-Wallet
+ORD-110,26/05/2023,agus wijaya,Fashion,Gucci,Tas Wanita,5,136000,Palembang,Cash On Delivery
+ORD-111,2023-02-04,rudi hermawan,Fashion,UNIQLO,JAKET,-2,3604000,Batam,E-Wallet
+ORD-112,2023-01-22,dian lestari,Fashion,uniqlo,BAJU WANITA,4,139000,Semarang,PayLater
+ORD-113,31/12/2023,SINTA NURMALA,Fashion, adidas ,Baju Wanita,2,668000,Palembang,QRIS
+ORD-114,2023-04-27,fitri anggraini,Fashion,H&M,Tas Wanita,4,256000,Bali,Credit Card
+ORD-115,2023-01-21,rudi hermawan,Fashion,ADIDAS,Baju Pria,4,397000,Jakarta,PayLater
+ORD-116,2023-02-16,AGUS WIJAYA,Elektronik,Sony,tablet,5,9782000,Samarinda,
+ORD-117,14/10/2023,sinta nurmala,Elektronik,SONY,headphone bluetooth,2,188000,Semarang,QRIS
+ORD-118,2023-04-16, maya sari ,Elektronik,lg,Headphone Bluetooth,7,308000,Makassar,PayLater
+ORD-119,29/09/2023,dian lestari,Fashion,H&M,tas pria,4,714000,Samarinda,QRIS
+ORD-120,17/01/2023,rudi  hermawan,Elektronik,asus, smart phone ,3,406000,Palembang,Credit Card
+ORD-121,2023-08-29,RUDI HERMAWAN,Fashion, adidas ,TAS PRIA,4,250000,Batam,QRIS
+ORD-122,15/09/2023,MAYA SARI,Elektronik,ASUS,Kamera Digital,-1,0,Batam,PayLater
+ORD-123,2023-08-11,riko pratama,Fashion,H&M,Celana Jeans,4,2537000,Medan,Credit Card
+ORD-124,2023-04-16,riko pratama,Elektronik,LG, laptop  gaming ,1,17571000,Surabaya,Credit Card
+ORD-125,2023-02-15,DIAN LESTARI,Elektronik, Apple , smart phone ,2,376000,,Cash On Delivery
+ORD-126,2023-02-03, maya sari ,Elektronik,samsung,headphone bluetooth,-2,17692000,Makassar,E-Wallet
+ORD-127,06/01/2023,FITRI ANGGRAINI,Elektronik,XIAOMI, laptop  gaming ,1,1901000,Bandung,Credit Card
+ORD-128,12/11/2023,sinta nurmala,Elektronik, asus ,HEADPHONE BLUETOOTH,9,3682000,Samarinda,PayLater
+ORD-129,13/07/2023,Anton Susanto,Fashion,zara, celana  jeans ,3,126000,Makassar,QRIS
+ORD-130,2023-12-30,maya sari,Fashion,Uniqlo,Baju Pria,5,579000,Makassar,
+ORD-131,25/07/2023,Sinta Nurmala,Fashion,Adidas, tas  pria ,4,180000,Batam,
+ORD-132,25/02/2023,sari dewi,Elektronik,XIAOMI, smart watch ,2,3865000,Palembang,Credit Card
+ORD-133,2023-01-18,Fitri Anggraini,Fashion,Uniqlo,Dress,4,826000,Batam,E-Wallet
+ORD-134,2023-02-11,Dian Lestari,Fashion,H&M,BAJU WANITA,4,814000,Medan,
+ORD-135,19/11/2023,lina kartika,Elektronik,lg,Headphone Bluetooth,2,390000,Semarang,PayLater
+ORD-136,07/02/2023,rudi  hermawan,Elektronik,sony,POWER BANK,-1,2409000,Palembang,Credit Card
+ORD-137,14/07/2023,dian lestari,Fashion,zara, sepatu  pria ,3,773000,Bali,
+ORD-138,30/09/2023,rudi hermawan,Fashion, H&M ,sepatu pria,3,193000,,
+ORD-139,02/11/2023,SARİ DEWİ,Fashion, gucci , tas  wanita ,2,125000,Palembang,Credit Card
+ORD-140,2023-08-05,lina-kartika,Fashion,adidas, baju  wanita ,1,0,,Cash On Delivery
+ORD-141,2023-01-02,dian lestari,Fashion,ZARA,celana jeans,6,3880000,Bali,E-Wallet
+ORD-142,03/09/2023,MAYA SARI,Fashion,NIKE,TAS PRIA,5,3583000,Bandung,
+ORD-143,29/07/2023,Maya Sari,Fashion,UNIQLO, tas  pria ,1,2607000,Palembang,PayLater
+ORD-144,07/07/2023,Anton Susanto,Fashion, gucci ,baju pria,4,204000,Surabaya,Bank Transfer
+ORD-145,15/10/2023,Dian Lestari,Fashion,ADIDAS,TAS WANITA,4,1603000,Samarinda,Credit Card
+ORD-146,2023-03-21,rudi  hermawan,Fashion,NIKE,Tas Wanita,4,275000,Makassar,PayLater
+ORD-147,23/09/2023,"Budi, Santoso",Fashion, H&M ,sepatu wanita,4,637000,Batam,QRIS
+ORD-148,2023-10-14, maya sari ,Fashion,H&M,kemeja,2,674000,Surabaya,E-Wallet
+ORD-149,2023-02-19, budi santoso  ,Elektronik,SONY,MONITOR 4K,4,341000,,
+ORD-150,2023-11-02,Dian Lestari,Elektronik,sony, smart phone ,1,3098000,Semarang,E-Wallet
+ORD-151,24/02/2023,Agus Wijaya,Fashion,h&m, tas  wanita ,0,811000,Semarang,Credit Card
+ORD-152,19/12/2023,Rudi Hermawan,Elektronik, Apple ,tv led,3,14739000,Semarang,QRIS
+ORD-153,2023-03-16,SINTA NURMALA,Elektronik, LG , Tablet ,8,17592000,Bali,
+ORD-154,2023-04-13,lina-kartika,Fashion,Gucci,JAKET,4,125000,Surabaya,Cash On Delivery
+ORD-155,2023-07-05,sinta nurmala,Fashion,GUCCI,kemeja,-2,169000,Makassar,Bank Transfer
+ORD-156,19/05/2023,fitri anggraini,Elektronik,apple,Kamera Digital,3,4238000,Batam,PayLater
+ORD-157,2023-01-07,riko pratama,Elektronik,Apple, power  bank ,2,22264000,Batam,Bank Transfer
+ORD-158,2023-04-21,lina kartika,Elektronik,Asus,smartphone,3,259000,Palembang,
+ORD-159,2023-03-12,budi santoso,Fashion, Zara , dress ,2,-307000,Bandung,QRIS
+ORD-160,2023-07-22,Lina Kartika,Fashion,NIKE,Baju Pria,5,819000,Jakarta,Cash On Delivery
+ORD-161,19/06/2023,FITRI ANGGRAINI,Elektronik,ASUS, smart watch ,4,13503000,Semarang,Bank Transfer
+ORD-162,09/02/2023,rudi hermawan,Fashion,h&m,celana jeans,9,3083000,,Bank Transfer
+ORD-163,2023-06-22,lina kartika,Elektronik,apple,MONITOR 4K,-2,2011000,Bandung,E-Wallet
+ORD-164,2023-07-06,Anton Susanto,Fashion,Uniqlo,sepatu pria,1,3833000,Surabaya,PayLater
+ORD-165,2023-06-15,agus wijaya,Fashion,h&m,baju wanita,5,807000,Makassar,Credit Card
+ORD-166,17/09/2023,rudi  hermawan,Fashion,Adidas,kemeja,5,3251000,Semarang,E-Wallet
+ORD-167,09/02/2023,rudi  hermawan,Fashion, Zara , jaket ,2,118000,Jakarta,PayLater
+ORD-168,06/10/2023,Rudi Hermawan,Fashion,ADIDAS,CELANA JEANS,3,173000,Medan,Bank Transfer
+ORD-169,24/01/2023,RIKO PRATAMA,Elektronik,xiaomi,headphone bluetooth,1,280000,Medan,QRIS
+ORD-170,2023-02-01,Agus Wijaya,Elektronik,XIAOMI,keyboard mechanical,3,0,Batam,Cash On Delivery
+ORD-171,2023-11-21,agus  wijaya,Fashion, Zara ,Jaket,4,648000,Medan,Cash On Delivery
+ORD-172,24/05/2023,dian lestari,Fashion,zara,JAKET,9,3793000,Makassar,Credit Card
+ORD-173,2023-01-09,riko pratama,Elektronik, sony ,HEADPHONE BLUETOOTH,2,4288000,Palembang,
+ORD-174,26/08/2023,maya sari,Elektronik,Lg,Smartphone,4,1954000,Jakarta,
+ORD-175,07/08/2023,lina-kartika,Fashion,ZARA,BAJU PRIA,4,645000,,PayLater
+ORD-176,10/12/2023,RUDI HERMAWAN,Elektronik, sony ,LAPTOP GAMING,1,14186000,Bali,E-Wallet
+ORD-177,2023-03-18,lina kartika,Elektronik,Samsung,Laptop Gaming,3,197000,Jakarta,
+ORD-178,24/05/2023,agus  wijaya,Fashion,ZARA,SEPATU WANITA,3,241000,Batam,QRIS
+ORD-179,10/05/2023,maya sari,Elektronik,ASUS,Smartphone,5,2594000,Semarang,Cash On Delivery
+ORD-180,28/08/2023,fitri anggraini,Elektronik,SAMSUNG,Smartphone,1,371000,Batam,Bank Transfer
+ORD-181,2023-04-07,maya sari,Fashion,GUCCI,DRESS,2,143000,Samarinda,Credit Card
+ORD-182,21/01/2023,SINTA NURMALA,Fashion,Nike,Sepatu Wanita,3,3193000,Bandung,E-Wallet
+ORD-183,2023-06-01,"Budi, Santoso",Elektronik, sony , smart watch ,2,9592000,Bandung,Credit Card
+ORD-184,2023-02-17,agus  wijaya,Fashion,GUCCI,TAS PRIA,5,188000,Palembang,E-Wallet
+ORD-185,09/10/2023,Riko Pratama,Elektronik,asus,KAMERA DIGITAL,3,2408000,Semarang,Cash On Delivery
+ORD-186,2023-12-01,maya sari,Elektronik,APPLE,SMARTPHONE,2,20849000,Medan,Credit Card
+ORD-187,2023-01-30,agus  wijaya,Elektronik,Samsung, tv  led ,4,3428000,Makassar,Bank Transfer
+ORD-188,2023-11-20,Lina Kartika,Fashion, gucci , sepatu  pria ,0,163000,Medan,Cash On Delivery
+ORD-189,05/09/2023,LINA KARTIKA,Fashion,UNIQLO,baju pria,2,2250000,,E-Wallet
+ORD-190,2023-06-24,SINTA NURMALA,Elektronik,ASUS,Laptop Gaming,4,17647000,Bandung,
+ORD-191,2023-10-16,budi santoso,Elektronik, asus , monitor  4k ,8,188000,Medan,PayLater
+ORD-192,05/09/2023,Riko Pratama,Fashion,UNIQLO,baju wanita,5,771000,Surabaya,Cash On Delivery
+ORD-193,03/06/2023,Riko Pratama,Fashion,H&M,Baju Wanita,10,159000,Semarang,Bank Transfer
+ORD-194,02/10/2023,lina-kartika,Fashion,Nike,Baju Wanita,5,146000,Bandung,Cash On Delivery
+ORD-195,14/06/2023,"Sari, Dewi",Elektronik,Asus,SMARTWATCH,5,329000,,Credit Card
+ORD-196,2023-10-15,riko pratama,Elektronik, sony ,headphone bluetooth,5,2624000,Surabaya,QRIS
+ORD-197,2023-04-19,Rudi Hermawan,Fashion,uniqlo, jaket ,5,469000,,QRIS
+ORD-198,2023-02-11,dian lestari,Elektronik,XIAOMI,Headphone Bluetooth,5,2976000,Medan,PayLater
+ORD-199,2023-01-31, maya sari ,Fashion, Nike ,kemeja,2,3125000,Palembang,Cash On Delivery
+ORD-200,10/09/2023,budi santoso,Fashion,adidas, baju  pria ,5,265000,Batam,QRIS
+ORD-201,2023-12-29,MAYA SARI,Elektronik,APPLE,MOUSE WIRELESS,7,15720000,Palembang,PayLater
+ORD-202,19/09/2023,Budi Santoso,Fashion,Adidas, jaket ,3,2373000,Palembang,Credit Card
+ORD-203,2023-04-07,RIKO PRATAMA,Fashion,Zara,tas pria,4,3668000,Samarinda,
+ORD-204,2023-07-10,Agus Wijaya,Fashion,adidas,BAJU PRIA,5,2198000,Makassar,QRIS
+ORD-205,2023-10-17,budi santoso,Fashion,nike,TAS PRIA,10,562000,Semarang,Cash On Delivery
+ORD-206,2023-06-25,anton susanto,Fashion,Gucci,SEPATU WANITA,3,103000,Samarinda,PayLater
+ORD-207,05/10/2023,Lina Kartika,Fashion, adidas ,sepatu wanita,3,966000,,
+ORD-208,30/03/2023,RIKO PRATAMA,Elektronik,Sony,SMARTPHONE,4,4355000,Surabaya,Cash On Delivery
+ORD-209,22/06/2023,Agus Wijaya,Elektronik,Sony,monitor 4k,3,19309000,,Credit Card
+ORD-210,11/11/2023,lina kartika,Elektronik,SONY,KAMERA DIGITAL,4,381000,Batam,PayLater
+ORD-211,2023-10-31,Fitri Anggraini,Elektronik, Apple , smart phone ,10,4048000,Surabaya,Bank Transfer
+ORD-212,09/07/2023,ANTON SUSANTO,Elektronik,Samsung,MOUSE WIRELESS,2,206000,Bali,E-Wallet
+ORD-213,18/10/2023,Rudi Hermawan,Fashion,GUCCI, tas  wanita ,5,659000,Medan,PayLater
+ORD-214,21/10/2023,Dian Lestari,Elektronik,samsung,LAPTOP GAMING,2,4537000,Semarang,Cash On Delivery
+ORD-215,2023-10-04,anton susanto,Elektronik,asus, monitor  4k ,8,272000,Makassar,PayLater
+ORD-216,09/07/2023,Sari Dewi,Fashion,h&m,CELANA JEANS,5,106000,Batam,Bank Transfer
+ORD-217,20/10/2023,Rudi Hermawan,Elektronik,XIAOMI,Smartphone,2,11760000,Palembang,
+ORD-218,14/11/2023,ANTON SUSANTO,Fashion,adidas,celana jeans,8,124000,Batam,Bank Transfer
+ORD-219,2023-07-23,agus wijaya,Fashion, adidas ,Tas Wanita,3,74000,Bandung,E-Wallet
+ORD-220,2023-12-10,budi santoso,Elektronik,xiaomi,mouse wireless,3,4539000,Surabaya,
+ORD-221,03/02/2023,Fitri Anggraini,Elektronik, asus ,Monitor 4K,8,3165000,Makassar,E-Wallet
+ORD-222,29/11/2023,"Budi, Santoso",Fashion, uniqlo , sepatu  pria ,2,296000,Bandung,E-Wallet
+ORD-223,01/04/2023,DIAN LESTARI,Elektronik,Sony,Monitor 4K,4,21464000,Semarang,Bank Transfer
+ORD-224,2023-12-22,Anton Susanto,Elektronik, Apple ,SMARTWATCH,5,1792000,Jakarta,Credit Card
+ORD-225,17/08/2023,SARİ DEWİ,Elektronik, xiaomi ,TV LED,2,411000,Samarinda,
+ORD-226,08/04/2023,Budi Santoso,Elektronik, Samsung ,tv led,4,18051000,Semarang,
+ORD-227,2023-03-25,ANTON SUSANTO,Elektronik,asus,Laptop Gaming,0,16148000,Jakarta,
+ORD-228,01/05/2023,RUDI HERMAWAN,Elektronik,xiaomi, tv  led ,5,18484000,Palembang,Cash On Delivery
+ORD-229,06/10/2023,lina-kartika,Elektronik,SAMSUNG,Headphone Bluetooth,2,17370000,Batam,
+ORD-230,24/09/2023,riko pratama,Fashion, Nike ,TAS PRIA,5,890000,Batam,QRIS
+ORD-231,13/07/2023,lina-kartika,Elektronik,ASUS,MOUSE WIRELESS,4,3803000,Batam,Credit Card
+ORD-232,02/11/2023,Sinta Nurmala,Elektronik,samsung,Mouse Wireless,3,2593000,,
+ORD-233,2023-03-29,Agus Wijaya,Elektronik,apple, monitor  4k ,5,21356000,Batam,PayLater
+ORD-234,03/06/2023,anton susanto,Elektronik,apple, laptop  gaming ,2,1981000,Palembang,E-Wallet
+ORD-235,21/02/2023,ANTON SUSANTO,Elektronik,Sony,POWER BANK,2,12073000,Samarinda,QRIS
+ORD-236,2023-09-24,lina kartika,Fashion,adidas,Dress,3,200000,Palembang,Bank Transfer
+ORD-237,2023-08-02,SINTA NURMALA,Elektronik, Samsung , smart watch ,6,14386000,Jakarta,E-Wallet
+ORD-238,2023-05-13,MAYA SARI,Fashion, gucci ,jaket,5,219000,Palembang,E-Wallet
+ORD-239,2023-10-03,lina-kartika,Fashion,H&M, dress ,5,607000,,Cash On Delivery
+ORD-240,2023-03-11,FITRI ANGGRAINI,Fashion,zara,tas pria,4,231000,Surabaya,Cash On Delivery
+ORD-241,14/01/2023,budi santoso,Fashion, Zara ,Tas Wanita,1,879000,Medan,Cash On Delivery
+ORD-242,02/02/2023,maya sari,Elektronik, xiaomi ,Tv Led,1,4258000,Bandung,Bank Transfer
+ORD-243,16/03/2023,budi santoso,Fashion, Zara ,baju wanita,3,4266000,Makassar,PayLater
+ORD-244,20/01/2023,FITRI ANGGRAINI,Elektronik,Xiaomi,Monitor 4K,4,2666000,Batam,Bank Transfer
+ORD-245,2023-02-14,"Budi, Santoso",Fashion,Gucci,Baju Wanita,1,222000,Palembang,Cash On Delivery
+ORD-246,2023-04-12,agus wijaya,Fashion,gucci, tas  wanita ,3,153000,Bandung,PayLater
+ORD-247,17/03/2023,MAYA SARI,Fashion,adidas, kemeja ,6,3990000,Jakarta,Credit Card
+ORD-248,2023-10-15,Sinta Nurmala,Elektronik,asus,Headphone Bluetooth,6,337000,Semarang,Cash On Delivery
+ORD-249,2023-01-25,Anton Susanto,Elektronik,SONY,mouse wireless,3,0,Makassar,Bank Transfer
+ORD-250,25/12/2023,Sari Dewi,Elektronik,xiaomi, smart watch ,5,3067000,Bandung,
+ORD-251,2023-04-27,Agus Wijaya,Elektronik,samsung, monitor  4k ,8,2889000,Semarang,Credit Card
+ORD-252,24/06/2023,Anton Susanto,Elektronik, sony , laptop  gaming ,10,-128000,Batam,Bank Transfer
+ORD-253,15/06/2023,fitri anggraini,Fashion,GUCCI,BAJU PRIA,2,2347000,Surabaya,Bank Transfer
+ORD-254,17/02/2023,Lina Kartika,Fashion, Nike ,sepatu pria,5,910000,Jakarta,E-Wallet
+ORD-255,14/08/2023,RUDI HERMAWAN,Elektronik,Lg,SMARTPHONE,2,18617000,Bandung,E-Wallet
+ORD-256,12/07/2023,sinta nurmala,Elektronik,Apple,Smartwatch,-1,3171000,Bali,QRIS
+ORD-257,2023-09-05,RIKO PRATAMA,Fashion, uniqlo ,DRESS,1,3797000,Samarinda,Cash On Delivery
+ORD-258,06/03/2023,sari dewi,Elektronik,SONY, power  bank ,7,344000,,QRIS
+ORD-259,2023-10-17,ANTON SUSANTO,Elektronik,Xiaomi,power bank,4,3606000,,QRIS
+ORD-260,31/12/2023,FITRI ANGGRAINI,Elektronik, LG ,headphone bluetooth,5,2521000,Surabaya,Bank Transfer
+ORD-261,31/05/2023,"Budi, Santoso",Elektronik,xiaomi,Tv Led,1,15253000,,PayLater
+ORD-262,29/10/2023,rudi hermawan,Fashion, Nike ,Jaket,3,2609000,Palembang,QRIS
+ORD-263,2023-10-10,lina-kartika,Elektronik, LG ,KEYBOARD MECHANICAL,1,9147000,Samarinda,E-Wallet
+ORD-264,2023-02-27,sari dewi,Elektronik, asus ,Headphone Bluetooth,2,16151000,Bandung,
+ORD-265,2023-10-21,agus wijaya,Elektronik,apple,Keyboard Mechanical,3,411000,Bali,
+ORD-266,2023-10-15,SINTA NURMALA,Elektronik,Apple, Tablet ,10,24006000,Palembang,Credit Card
+ORD-267,02/09/2023,Fitri Anggraini,Elektronik,ASUS,LAPTOP GAMING,2,396000,Bali,QRIS
+ORD-268,16/02/2023,Riko Pratama,Elektronik,SAMSUNG,tv led,5,170000,Makassar,
+ORD-269,19/10/2023,RUDI HERMAWAN,Fashion,UNIQLO, tas  pria ,5,171000,Medan,E-Wallet
+ORD-270,06/07/2023,ANTON SUSANTO,Elektronik,sony,POWER BANK,3,3169000,Bandung,Bank Transfer
+ORD-271,2023-11-27,"Budi, Santoso",Fashion, Nike ,dress,3,170000,Medan,E-Wallet
+ORD-272,2023-05-02,riko pratama,Fashion,Nike,SEPATU WANITA,4,141000,Batam,QRIS
+ORD-273,13/09/2023,Agus Wijaya,Fashion, Nike ,tas wanita,4,194000,Bali,E-Wallet
+ORD-274,11/09/2023,lina kartika,Elektronik, asus ,smartwatch,4,325000,Surabaya,Credit Card
+ORD-275,2023-08-22,Riko Pratama,Fashion, uniqlo ,DRESS,5,209000,Medan,
+ORD-276,07/02/2023,Maya Sari,Elektronik,APPLE,MONITOR 4K,2,-485000,Samarinda,
+ORD-277,22/05/2023,LINA KARTIKA,Fashion, Nike ,BAJU WANITA,10,3461000,Bali,Cash On Delivery
+ORD-278,06/08/2023,rudi hermawan,Fashion, H&M ,SEPATU PRIA,4,766000,,QRIS
+ORD-279,2023-06-27,lina-kartika,Elektronik,Xiaomi,laptop gaming,-1,85000,Jakarta,Cash On Delivery
+ORD-280,30/11/2023,lina-kartika,Elektronik,ASUS, laptop  gaming ,1,-91000,Semarang,E-Wallet
+ORD-281,12/09/2023,"Budi, Santoso",Fashion, Nike ,CELANA JEANS,5,3984000,Bali,
+ORD-282,2023-06-29,Agus Wijaya,Fashion,h&m,baju pria,1,592000,Medan,PayLater
+ORD-283,30/06/2023,lina kartika,Fashion,Zara,sepatu pria,4,564000,Batam,Cash On Delivery
+ORD-284,2023-09-18,dian lestari,Elektronik,Asus,Smartwatch,3,368000,Batam,PayLater
+ORD-285,2023-10-27,Lina Kartika,Fashion, adidas ,Sepatu Wanita,1,2770000,,QRIS
+ORD-286,09/05/2023,Maya Sari,Fashion,ADIDAS,Sepatu Pria,2,2007000,Surabaya,Cash On Delivery
+ORD-287,2023-08-17,sinta nurmala,Elektronik,sony,Laptop Gaming,2,427000,,PayLater
+ORD-288,2023-03-31,RUDI HERMAWAN,Elektronik,xiaomi,TV LED,5,12580000,,QRIS
+ORD-289,21/11/2023,rudi hermawan,Elektronik,Asus,tablet,9,301000,Bandung,PayLater
+ORD-290,2023-02-26,fitri anggraini,Fashion,adidas,TAS PRIA,4,739000,Makassar,Cash On Delivery
+ORD-291,2023-07-29,riko pratama,Fashion,GUCCI,Dress,4,3973000,Medan,Cash On Delivery
+ORD-292,2023-04-21,agus wijaya,Elektronik,Apple,KAMERA DIGITAL,1,12000000,Jakarta,QRIS
+ORD-293,2023-09-13, budi santoso  ,Fashion,adidas,Sepatu Wanita,2,123000,Semarang,PayLater
+ORD-294,22/05/2023,Budi Santoso,Elektronik, LG ,Smartwatch,2,2475000,Palembang,Cash On Delivery
+ORD-295,2023-09-18, budi santoso  ,Elektronik,SONY,MONITOR 4K,2,439000,Surabaya,PayLater
+ORD-296,03/04/2023,sinta nurmala,Elektronik,lg,tablet,4,14527000,Bandung,E-Wallet
+ORD-297,2023-07-09,RIKO PRATAMA,Elektronik,LG,KAMERA DIGITAL,8,227000,Samarinda,Bank Transfer
+ORD-298,26/12/2023,agus  wijaya,Fashion,UNIQLO, tas  pria ,2,2665000,Makassar,
+ORD-299,2023-10-08,"Sari, Dewi",Fashion, Nike ,kemeja,2,720000,Palembang,QRIS
+ORD-300,15/01/2023,"Sari, Dewi",Elektronik, Apple ,keyboard mechanical,1,15676000,Semarang,Credit Card
+ORD-014,2023-08-09,dian lestari,Fashion,Adidas, baju  wanita ,2,190000,Bandung,Cash On Delivery
+ORD-201,31/12/2023,MAYA SARI,Elektronik,APPLE,MOUSE WIRELESS,7,15720000,Palembang,PayLater
+ORD-238,16/05/2023,MAYA SARI,Fashion, gucci ,jaket,5,219000,Palembang,E-Wallet
+ORD-039,28/02/2023,Agus Wijaya,Fashion,Zara, celana  jeans ,2,759000,Samarinda,Bank Transfer
+ORD-060,2023-11-25,SINTA NURMALA,Elektronik,LG,MOUSE WIRELESS,1,3202000,Samarinda,Cash On Delivery
+ORD-202,2023-09-20,Budi Santoso,Fashion,Adidas, jaket ,3,2373000,Palembang,Credit Card
+ORD-190,25/06/2023,SINTA NURMALA,Elektronik,ASUS,Laptop Gaming,4,17647000,Bandung,
+ORD-026,2023-08-24,lina kartika,Elektronik,Asus,tablet,4,11698000,Medan,Cash On Delivery
+ORD-013,2023-09-13,budi santoso,Elektronik,Sony,HEADPHONE BLUETOOTH,2,132000,Makassar,PayLater
+ORD-051,06/01/2023,SINTA NURMALA,Fashion,Nike,sepatu pria,10,-89000,Semarang,
+ORD-169,27/01/2023,RIKO PRATAMA,Elektronik,xiaomi,headphone bluetooth,1,280000,Medan,QRIS
+ORD-289,22/11/2023,rudi hermawan,Elektronik,Asus,tablet,9,301000,Bandung,PayLater
+ORD-249,2023-01-26,Anton Susanto,Elektronik,SONY,mouse wireless,3,0,Makassar,Bank Transfer
+ORD-254,18/02/2023,Lina Kartika,Fashion, Nike ,sepatu pria,5,910000,Jakarta,E-Wallet
+ORD-180,2023-08-30,fitri anggraini,Elektronik,SAMSUNG,Smartphone,1,371000,Batam,Bank Transfer
