@@ -1,0 +1,9 @@
+# Python files counted for language stats
+*.py linguist-detectable=true
+*.ipynb linguist-detectable=true
+
+# Ignore non-code files from language stats
+*.pdf linguist-detectable=false
+*.docx linguist-detectable=false
+*.pptx linguist-detectable=false
+*.md linguist-detectable=false
