@@ -1,10 +1,10 @@
-# Simple E-Commerce Sales Analytics
+## SALES DATA ANALYTICS: EXTRACTING INSIGHTS FOR BUSINESS GROWTH
 
 A simple, data-driven project that analyzes 2023 Indonesian e-commerce sales data (300+ transactions) to uncover customer behavior, seasonal patterns, product performance, and strategic insights for business growth.
 
 ---
 
-## 📊 Project Overview
+### 📊 Project Overview
 - **Dataset**: 2023 sales records (300+ transactions)  
 - **Revenue**: Rp 4.04 billion  
 - **Categories**: Electronics & Fashion  
@@ -15,7 +15,7 @@ This project transforms raw sales data into **actionable insights** that drive r
 
 ---
 
-## ⚙️ Methodology
+### ⚙️ Methodology
 1. **Data Preprocessing & Cleaning**  
    - Cleaning data, standardizing categories, handling missing values.  
 2. **Classification & Segmentation**  
@@ -27,13 +27,17 @@ This project transforms raw sales data into **actionable insights** that drive r
 
 ---
 
-## 🛠️ Tools Used
-- **Excel** → data cleaning, pivot tables, charts, and analysis  
-- **Canva** → visualization design, presentation slides, and report layout  
+### 🛠️ Tools Used
+- **Excel** → Used for data cleaning, processing, and generating reports to identify key insights.
+- **Canva** → Used for creating professional visuals and presentation designs.
+- **IBM Granite** → A large language model applied for natural language processing and generating analytical insights.
+- **Google Colab** → A cloud-based environment for writing and running Python code interactively, especially for data analysis.
+- **Replicate** → A platform for running and deploying machine learning models via API.
+- **LangChain** → A framework for building applications with large language models, enabling chaining of prompts, integration with external tools, and workflow automation.  
 
 ---
 
-## 🔑 Key Findings
+### 🔑 Key Findings
 - **Balanced portfolio**: Electronics (49%) vs Fashion (51%) transactions.  
 - **Top customers dominate**:  
   - Sinta Nurmala – Rp 803M  
@@ -51,7 +55,7 @@ This project transforms raw sales data into **actionable insights** that drive r
 
 ---
 
-## 💡 Business Insights
+### 💡 Business Insights
 - Customer concentration creates both opportunity and risk → VIP/loyalty programs are critical.  
 - Balanced portfolio reduces dependency risks.  
 - Strong geographic coverage → expansion opportunities in new cities.  
@@ -59,28 +63,28 @@ This project transforms raw sales data into **actionable insights** that drive r
 
 ---
 
-## 📈 Strategic Recommendations
+### 📈 Strategic Recommendations
 - **Customer Strategy**: VIP programs, retention plans for mid-tier customers, geo-targeted expansion.  
 - **Product Strategy**: Increase stock for top products, seasonal inventory planning, cross-category bundles.  
 - **Revenue Strategy**: Focus marketing on peak months, optimize payment methods, targeted campaigns.  
 
 ---
 
-## 🗺️ Implementation Roadmap
+### 🗺️ Implementation Roadmap
 - **1–3 months**: Launch loyalty program, optimize inventory, seasonal campaigns.  
 - **3–6 months**: Plan city expansion, cross-category bundling, refine segmentation.  
 - **6–12 months**: Predictive modeling, advanced analytics, large-scale market expansion.  
 
 ---
 
-## 📌 Next Steps
+### 📌 Next Steps
 - Build automated reporting in Excel.  
 - Explore dashboard integration for real-time monitoring.  
 - Refine visualization for clearer business storytelling.  
 
 ---
 
-## 📧 Contact
+### 📧 Contact
 - **Author**: Abu Sofian  
 - **Email**: abusofian.id@gmail.com  
 - **LinkedIn**: [linkedin.com/in/abusofianid](https://www.linkedin.com/in/abusofianid)  
